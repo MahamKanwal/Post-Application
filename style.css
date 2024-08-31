@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+.fontStyle{
+    font-family: 'Roboto Mono', monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+.bg-green {
+    background:#F81894; 
+    height: 80px !important;
+     } 
+.color-blue{
+	background-color: #F81894;
+
+}
+.color-blue:hover{
+	background-color: #F81894;
+
+}
+.border-green{
+    border: 2px solid #F81894;
+    border-radius: 10px;
+}
+
+.selectedImg{
+    border: 10px solid #F81894;
+}
+.bg-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.image-list-selected{
+    border: 2px solid #F81894;
+}
+.card-body{
+    background-repeat: no-repeat !important;
+    background-size:cover !important;
+}
