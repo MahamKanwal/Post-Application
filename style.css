@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
 
@@ -8,9 +9,10 @@
 
 }
 .bg-green {
-    background:#F81894; 
+	background-color: #F81894;
     height: 80px !important;
-     } 
+    
+}
 .color-blue{
 	background-color: #F81894;
 
@@ -25,7 +27,7 @@
 }
 
 .selectedImg{
-    border: 10px solid #F81894;
+    border: 10px solid black;
 }
 .bg-img{
     width: 40px;
@@ -34,7 +36,7 @@
 }
 
 .image-list-selected{
-    border: 2px solid #F81894;
+    border: 2px solid black;
 }
 .card-body{
     background-repeat: no-repeat !important;
